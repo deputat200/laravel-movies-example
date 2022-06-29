@@ -18,7 +18,7 @@
                 @foreach ($nowPlayingMovies as $movie)
                     <x-movie-card :movie="$movie" />
                 @endforeach
-            </div>
+            </div>dxcsds
         </div> <!-- end now-playing-movies -->
     </div>
 @endsection
